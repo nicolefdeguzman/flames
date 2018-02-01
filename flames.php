@@ -6,7 +6,7 @@
         "A" => "Affection",
         "M" => "Marriage",
         "E" => "Enemy",
-        "S" => "Sister"
+        "S" => "Sweetheart"
     );
     $n1 ="BETH";
     $n2 = "LESTER";
